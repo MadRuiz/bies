@@ -1,0 +1,7 @@
+{
+    "autoload":{
+        "Psr-4":{
+            "RACCOON\\BIES\\": "app/src"
+        }
+    }
+}
